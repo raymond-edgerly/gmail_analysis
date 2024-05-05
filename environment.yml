@@ -188,4 +188,3 @@ dependencies:
   - zeromq=4.3.5=h6a678d5_0
   - zlib=1.2.13=h5eee18b_1
   - zstd=1.5.5=hc292b87_2
-prefix: /home/rj/anaconda3/envs/gmail_analysis_env
